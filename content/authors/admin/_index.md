@@ -22,7 +22,7 @@ social:
     link: https://github.com/nbmanning
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nicholas-b-manning/
 organizations:
   - name: Michigan State University
     url: https://www.canr.msu.edu/csis/
