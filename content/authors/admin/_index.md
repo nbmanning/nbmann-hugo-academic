@@ -4,8 +4,8 @@ avatar_filename: null
 bio: "I am broadly interested in applying earth observation data to monitor the
   consequences of environmental change. "
 interests:
-  - Remote sensing
-  - LandChange
+  - Remote Sensing
+  - Land Change
   - Metacoupling
 social:
   - icon: envelope
