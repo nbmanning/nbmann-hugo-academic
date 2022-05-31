@@ -1,8 +1,8 @@
 ---
 role: MS Student
 avatar_filename: null
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "I am broadly interested in applying earth observation data to monitor the
+  consequences of environmental change. "
 interests:
   - Remote sensing
   - LandChange
