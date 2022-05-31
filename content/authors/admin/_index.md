@@ -1,6 +1,6 @@
 ---
 role: MS Student
-avatar_filename: img_7899.jpg
+avatar_filename: content/authors/admin/img_7899.jpg
 bio: "I am broadly interested in applying earth observation data to monitor the
   consequences of environmental change. "
 interests:
