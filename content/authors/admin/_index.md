@@ -42,7 +42,9 @@ highlight_name: true
 title: Nick Manning
 email: ""
 ---
-Nick Manning is a graduate student studying a mix of ecology, geography, and environmental consevration at MSU's Center for Systems Integration and sustainability. His current research surrounds evaluating the distant links between natural disasters in one region and land change in another through the metacoupling framework. Outside of this, he has other research interests in geospatial data science, renewable energym and biogeography.  
+Nick Manning is a graduate student pursuing a mix of ecology, geography, and environmental consevration at MSU's Center for Systems Integration and sustainability. 
+
+His current research surrounds evaluating the distant links between natural disasters in one region and land change in another through the metacoupling framework. Outside of this, he has other research interests in geospatial data science, renewable energy and biogeography.  
 
 Before starting at MSU, Nick was a member of the Biogeography & Landscape Dynamics lab at Kent State University, where he began his coding journey in R and Google Earth Engine. 
 
