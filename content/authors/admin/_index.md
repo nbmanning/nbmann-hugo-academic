@@ -1,49 +1,49 @@
 ---
-role: Professor of Artificial Intelligence
+role: MS Student
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote sensing
+  - LandChange
+  - Metacoupling
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/nbmann_
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=T4xVeaMAAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nbmanning
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Michigan State University
+    url: https://www.canr.msu.edu/csis/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Fisheries & Wildlife
+      institution: Michigan State University
+      year: ""
+    - course: BSc in Geology
+      institution: Kent State University
+      year: 2019
+    - course: BA in Environmental Studies
+      institution: Kent State University
+      year: 2019
 superuser: true
 highlight_name: true
 title: Nick Manning
 email: ""
 ---
+Nick Manning is a graduate student studying a mix of ecology, geography, and environmental consevration at MSU's Center for Systems Integration and sustainability. His current research surrounds evaluating the distant links between natural disasters in one region and land change in another through the metacoupling framework. Outside of this, he has other research interests in geospatial data science, renewable energym and biogeography.  
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before starting at MSU, Nick was a member of the Biogeography & Landscape Dynamics lab at Kent State University, where he began his coding journey in R and Google Earth Engine. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
