@@ -50,11 +50,10 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: assal2021_grabs.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.ecolind.2021.107807
 ---
-
