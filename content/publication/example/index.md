@@ -40,7 +40,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: In Ecological Indicators
-featured: true
+featured: false
 date: 2022-06-11T12:56:04.428Z
 url_slides: ""
 title: Monitoring long-term riparian vegetation trends to inform local habitat
