@@ -51,7 +51,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  filename: assal2021_grabs.jpg
+  filename: content/publication/example/assal2021_grabs.jpg
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
