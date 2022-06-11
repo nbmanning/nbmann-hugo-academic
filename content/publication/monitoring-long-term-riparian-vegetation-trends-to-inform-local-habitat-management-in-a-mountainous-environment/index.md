@@ -32,7 +32,7 @@ draft: false
 featured: true
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 summary: Riparian zones are the areas of vegetation near rivers, streams, and
   other bodies of water. These zones provide habitat for many species and are
