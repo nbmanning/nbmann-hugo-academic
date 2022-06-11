@@ -1,87 +1,60 @@
 ---
-title: 'An example conference paper'
+abstract: >-
+  Riparian ecosystems provide critical habitat for many species, yet assessment
+  of vegetation condition at local scales is difficult to measure when
+  considering large areas over long time periods. We present a framework to map
+  and monitor two deciduous cover types, upland and riparian, occupying a small
+  fraction of an expansive, mountainous landscape in north-central Wyoming. 
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+
+  Initially, we developed broad-scale predictions of predominant woody vegetation types by integrating Landsat data into species distribution models and combining subsequent outputs into a synthesis map. Then, we evaluated a 35-year Landsat time series (1985–2019) using the Mann-Kendall test to identify significant trends in the condition of upland and riparian deciduous vegetation and assessed the rate and direction of change using the Theil-Sen estimator. Finally, we used plot level data to assess the utility of the framework to detect bottom-up controls (ungulate browse pressure and management actions) on vegetation condition. 
+
+
+  The synthesis map had an overall correct classification rate of 87% and field data indicated deciduous vegetation within 45 m of coniferous forest faces increased pressure of conifer expansion. The trend assessment identified consistent patterns operating at the landscape scale across both upland and riparian deciduous vegetation; a predominant greening trend was observed for 12 years followed by a 9-year browning trend, before switching back to a greening trend for the last 13 years of the study. 
+
+
+  Our results indicate trends are driven by the climate of the measurement period at the landscape scale. Although we did not find conclusive evidence to establish a strong link between browse pressure and satellite data, we highlight examples where prevailing trends can be overridden by local disturbance or management intervention. This framework is transferable to other understudied riparian environments throughout western North America to provide insight on ecohydrological processes and assess global and local stressors across broad spatiotemporal scales.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Timothy Assal
+  - Valerie Steen
+  - Todd Caltrider
+  - Travis Cundy
+  - Cheyenne Stewart
+  - Nicholas Manning
+  - Patrick Anderson
+summary: Riparian zones are the areas of vegetation near rivers, streams, and
+  other bodies of water. These zones provide habitat for many species and are
+  important for the wellbeing of any ecosystem, yet it’s tough to measure their
+  local conditions over long periods of time. We present a combined method to
+  track climate’s role on the health of these ecosystems through a species
+  distribution model and through measuring the changing trends in a satellite
+  data time series.
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: ""
+url_source: ""
+url_video: ""
+publication: In Ecological Indicators
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+date: 2022-06-11T12:56:04.428Z
+url_slides: ""
+title: Monitoring long-term riparian vegetation trends to inform local habitat
+  management in a mountainous environment
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: assal2021_grabs.jpg
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.1016/j.ecolind.2021.107807
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
